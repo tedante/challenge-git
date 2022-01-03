@@ -1,0 +1,16 @@
+kerjain challenge
+- buka link repository challenge, copy link clone https atau ssh
+- di terminal git clone <linkclone>
+- setelah clone berhasil, ada muncul folder sesuai repository
+- cd <namafolder>
+- code . buat ngebuka challenge di vscode
+- git checkout -b <namabranch> buat nama branch kalian
+- kerjain challenge, ubah kode/file, save kalau udh selesai
+- git status untuk cek perubahan
+- git add .
+- git commit -m 'commitmessage' kasih commit message yang jelas sesuai perubahan yang dilakukan
+- git push origin <namabranch>
+- buka link repository lagi, klik tombol hijau Compare & pull request
+- ganti title dengan nama lengkap
+- assignees pilih julindra
+- klik Create pull request (edited)
